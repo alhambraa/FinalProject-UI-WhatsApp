@@ -57,7 +57,7 @@ export default class StatusScreen extends Component {
               />
             </Left>
             <Body>
-              <Text>Mohammad</Text>
+              <Text>Mas Ringgas SCP</Text>
               <Text note>Today, 11:24 pm</Text>
             </Body>
           </ListItem>
@@ -71,7 +71,7 @@ export default class StatusScreen extends Component {
               />
             </Left>
             <Body>
-              <Text>Brian</Text>
+              <Text>Mas Dhanang SCP</Text>
               <Text note>Today, 10:12 pm</Text>
             </Body>
           </ListItem>
@@ -85,7 +85,7 @@ export default class StatusScreen extends Component {
               />
             </Left>
             <Body>
-              <Text>Michael</Text>
+              <Text>Mas Abdi SHS</Text>
               <Text note>Today, 10:00 pm</Text>
             </Body>
           </ListItem>
